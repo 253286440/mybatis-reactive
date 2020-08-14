@@ -1,0 +1,7 @@
+spring:
+  r2dbc:
+    url: r2dbc:pool:mysql://127.0.0.1:3306/hopegaming_main?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&netTimeoutForStreamingResults=0&serverTimezone=UTC&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
+    username: hopegame
+    password: '&HlVCE#kaUk7'
+
+
